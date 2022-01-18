@@ -12,6 +12,7 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 In this project, [I used] data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. [I compared] the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 Statistics Computed:
+
 1: Popular times of travel (i.e., occurs most often in the start time): most common month, most common day of week, and most common hour of day
 
 2: Popular stations and trip: most common start station, most common end station, most common trip from start to end (i.e., most frequent combination of start station and end station)
